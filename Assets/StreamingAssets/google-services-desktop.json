@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "629352981541",
+    "firebase_url": "https://devise-omniauth-174704.firebaseio.com",
+    "project_id": "devise-omniauth-174704",
+    "storage_bucket": "devise-omniauth-174704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629352981541:android:b5732d47042917be",
+        "android_client_info": {
+          "package_name": "com.osh.plantar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629352981541-jltcdbmq67267j9l1toe0jmdajni2crn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRawTszuLDug-6lZKz8PWzjn8mv8fzgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629352981541:android:2332d69a6188633d",
+        "android_client_info": {
+          "package_name": "com.osh.simulator.simulatorosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629352981541-d7hv7q52b4r72na7cpjflop8ffufljvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osh.simulator.simulatorosh",
+            "certificate_hash": "7f5529b3359373796320fda067566cc3d8da0d14"
+          }
+        },
+        {
+          "client_id": "629352981541-jltcdbmq67267j9l1toe0jmdajni2crn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRawTszuLDug-6lZKz8PWzjn8mv8fzgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629352981541-jltcdbmq67267j9l1toe0jmdajni2crn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629352981541:android:0b0ddcbc7e99c1ed",
+        "android_client_info": {
+          "package_name": "com.osh.smartcity.smartcityosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629352981541-5jurncn614ejgkcvjhrdofdrb57b4f1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osh.smartcity.smartcityosh",
+            "certificate_hash": "7f5529b3359373796320fda067566cc3d8da0d14"
+          }
+        },
+        {
+          "client_id": "629352981541-jltcdbmq67267j9l1toe0jmdajni2crn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRawTszuLDug-6lZKz8PWzjn8mv8fzgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629352981541-jltcdbmq67267j9l1toe0jmdajni2crn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
